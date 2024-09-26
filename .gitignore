@@ -32,3 +32,4 @@
 *.app
 
 lib\ui\api\api_consts.dart
+lib/ui/api/api_consts.dart
